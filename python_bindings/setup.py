@@ -28,9 +28,9 @@ ext_modules = [
 setup(
     name="backtesting_engine",
     version=__version__,
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/backtesting-engine",
+    author="Ashraf Galib Shaik",
+    author_email="ashrafgalibshaik@gmail.com",
+    url="https://github.com/AshrafGalibShaik/Event-Driven-Backtesting-Engine",
     description="Event-driven backtesting engine for algorithmic trading",
     long_description=open("README.md").read() if os.path.exists("README.md") else "",
     long_description_content_type="text/markdown",
