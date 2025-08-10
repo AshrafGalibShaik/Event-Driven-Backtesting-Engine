@@ -331,5 +331,4 @@ For questions, issues, or feature requests, please open an issue on GitHub.
 - [ ] Risk analytics dashboard
 - [ ] Database integration
 - [ ] REST API interface
-- [ ] Python bindings#   E v e n t - D r i v e n - B a c k t e s t i n g - E n g i n e  
- 
+- [ ] Python bindings
