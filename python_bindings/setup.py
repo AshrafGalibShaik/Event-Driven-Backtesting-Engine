@@ -62,4 +62,9 @@ setup(
         "Topic :: Scientific/Engineering",
     ],
     keywords="backtesting, trading, finance, algorithmic-trading, quantitative-finance",
+        project_urls={
+        "Bug Reports": "https://github.com/AshrafGalibShaik/Event-Driven-Backtesting-Engine/issues",
+        "Source": "https://github.com/AshrafGalibShaik/Event-Driven-Backtesting-Engine",
+        "Documentation": "https://github.com/AshrafGalibShaik/Event-Driven-Backtesting-Engine/blob/main/README.md",
+    },
 )
