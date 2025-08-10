@@ -62,9 +62,4 @@ setup(
         "Topic :: Scientific/Engineering",
     ],
     keywords="backtesting, trading, finance, algorithmic-trading, quantitative-finance",
-    project_urls={
-        "Bug Reports": "https://github.com/yourusername/backtesting-engine/issues",
-        "Source": "https://github.com/yourusername/backtesting-engine",
-        "Documentation": "https://github.com/yourusername/backtesting-engine/blob/main/README.md",
-    },
 )
