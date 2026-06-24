@@ -4,6 +4,7 @@ A comprehensive C++ implementation of an event-driven backtesting system for alg
 
 ## Table of Contents
 
+
 - [Features](#features)
 - [Architecture](#architecture)
 - [Quick Start](#quick-start)
